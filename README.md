@@ -5,4 +5,5 @@ In this program the user will enter certain word and the program will divide the
 Example:
 
 enter the word--tony                        #user given word
+
 ['Tango', 'Oscar', 'November', 'Yankee']    #output
